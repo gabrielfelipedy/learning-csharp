@@ -14,3 +14,10 @@ var stream = new StreamWriter("test.txt");
 stream.WriteLine("first line");
 
 stream.Close();
+
+using(var reader = new StreamReader("test.txt")) {
+  var line = "";
+  while((line = reader.ReadLine()) != null) {
+    Console.WriteLine(line);
+  }
+}
