@@ -1,0 +1,15 @@
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/obj/Debug/net6.0/basicSyntax.csproj.AssemblyReference.cache
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/obj/Debug/net6.0/basicSyntax.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/obj/Debug/net6.0/basicSyntax.AssemblyInfoInputs.cache
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/obj/Debug/net6.0/basicSyntax.AssemblyInfo.cs
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/obj/Debug/net6.0/basicSyntax.csproj.CoreCompileInputs.cache
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/bin/Debug/net6.0/basicSyntax
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/bin/Debug/net6.0/basicSyntax.deps.json
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/bin/Debug/net6.0/basicSyntax.runtimeconfig.json
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/bin/Debug/net6.0/basicSyntax.dll
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/bin/Debug/net6.0/basicSyntax.pdb
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/obj/Debug/net6.0/basicSyntax.dll
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/obj/Debug/net6.0/refint/basicSyntax.dll
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/obj/Debug/net6.0/basicSyntax.pdb
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/obj/Debug/net6.0/basicSyntax.genruntimeconfig.cache
+/home/gabrielfelipe/arch/learning-csharp/basicSyntax/obj/Debug/net6.0/ref/basicSyntax.dll
