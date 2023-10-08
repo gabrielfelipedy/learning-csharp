@@ -1,0 +1,15 @@
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/bin/Debug/net6.0/helloWorld
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/bin/Debug/net6.0/helloWorld.deps.json
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/bin/Debug/net6.0/helloWorld.runtimeconfig.json
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/bin/Debug/net6.0/helloWorld.dll
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/bin/Debug/net6.0/helloWorld.pdb
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/obj/Debug/net6.0/helloWorld.csproj.AssemblyReference.cache
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/obj/Debug/net6.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/obj/Debug/net6.0/helloWorld.AssemblyInfoInputs.cache
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/obj/Debug/net6.0/helloWorld.AssemblyInfo.cs
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/obj/Debug/net6.0/helloWorld.csproj.CoreCompileInputs.cache
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/obj/Debug/net6.0/helloWorld.dll
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/obj/Debug/net6.0/refint/helloWorld.dll
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/obj/Debug/net6.0/helloWorld.pdb
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/obj/Debug/net6.0/helloWorld.genruntimeconfig.cache
+/home/gabrielfelipe/arch/learning-csharp/helloWorld/obj/Debug/net6.0/ref/helloWorld.dll
