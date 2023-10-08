@@ -1,0 +1,15 @@
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/bin/Debug/net6.0/fnsAndLibs
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/bin/Debug/net6.0/fnsAndLibs.deps.json
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/bin/Debug/net6.0/fnsAndLibs.runtimeconfig.json
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/bin/Debug/net6.0/fnsAndLibs.dll
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/bin/Debug/net6.0/fnsAndLibs.pdb
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/obj/Debug/net6.0/fnsAndLibs.csproj.AssemblyReference.cache
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/obj/Debug/net6.0/fnsAndLibs.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/obj/Debug/net6.0/fnsAndLibs.AssemblyInfoInputs.cache
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/obj/Debug/net6.0/fnsAndLibs.AssemblyInfo.cs
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/obj/Debug/net6.0/fnsAndLibs.csproj.CoreCompileInputs.cache
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/obj/Debug/net6.0/fnsAndLibs.dll
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/obj/Debug/net6.0/refint/fnsAndLibs.dll
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/obj/Debug/net6.0/fnsAndLibs.pdb
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/obj/Debug/net6.0/fnsAndLibs.genruntimeconfig.cache
+/home/gabrielfelipe/arch/learning-csharp/fnsAndLibs/obj/Debug/net6.0/ref/fnsAndLibs.dll

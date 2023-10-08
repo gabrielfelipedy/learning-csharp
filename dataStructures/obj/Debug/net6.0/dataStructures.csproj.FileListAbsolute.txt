@@ -1,0 +1,15 @@
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/bin/Debug/net6.0/dataStructures
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/bin/Debug/net6.0/dataStructures.deps.json
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/bin/Debug/net6.0/dataStructures.runtimeconfig.json
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/bin/Debug/net6.0/dataStructures.dll
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/bin/Debug/net6.0/dataStructures.pdb
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/obj/Debug/net6.0/dataStructures.csproj.AssemblyReference.cache
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/obj/Debug/net6.0/dataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/obj/Debug/net6.0/dataStructures.AssemblyInfoInputs.cache
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/obj/Debug/net6.0/dataStructures.AssemblyInfo.cs
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/obj/Debug/net6.0/dataStructures.csproj.CoreCompileInputs.cache
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/obj/Debug/net6.0/dataStructures.dll
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/obj/Debug/net6.0/refint/dataStructures.dll
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/obj/Debug/net6.0/dataStructures.pdb
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/obj/Debug/net6.0/dataStructures.genruntimeconfig.cache
+/home/gabrielfelipe/arch/learning-csharp/dataStructures/obj/Debug/net6.0/ref/dataStructures.dll
