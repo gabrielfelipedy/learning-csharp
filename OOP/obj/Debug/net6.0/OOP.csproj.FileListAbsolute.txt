@@ -1,0 +1,15 @@
+/home/gabrielfelipe/arch/learning-csharp/OOP/obj/Debug/net6.0/OOP.csproj.AssemblyReference.cache
+/home/gabrielfelipe/arch/learning-csharp/OOP/obj/Debug/net6.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrielfelipe/arch/learning-csharp/OOP/obj/Debug/net6.0/OOP.AssemblyInfoInputs.cache
+/home/gabrielfelipe/arch/learning-csharp/OOP/obj/Debug/net6.0/OOP.AssemblyInfo.cs
+/home/gabrielfelipe/arch/learning-csharp/OOP/obj/Debug/net6.0/OOP.csproj.CoreCompileInputs.cache
+/home/gabrielfelipe/arch/learning-csharp/OOP/bin/Debug/net6.0/OOP
+/home/gabrielfelipe/arch/learning-csharp/OOP/bin/Debug/net6.0/OOP.deps.json
+/home/gabrielfelipe/arch/learning-csharp/OOP/bin/Debug/net6.0/OOP.runtimeconfig.json
+/home/gabrielfelipe/arch/learning-csharp/OOP/bin/Debug/net6.0/OOP.dll
+/home/gabrielfelipe/arch/learning-csharp/OOP/bin/Debug/net6.0/OOP.pdb
+/home/gabrielfelipe/arch/learning-csharp/OOP/obj/Debug/net6.0/OOP.dll
+/home/gabrielfelipe/arch/learning-csharp/OOP/obj/Debug/net6.0/refint/OOP.dll
+/home/gabrielfelipe/arch/learning-csharp/OOP/obj/Debug/net6.0/OOP.pdb
+/home/gabrielfelipe/arch/learning-csharp/OOP/obj/Debug/net6.0/OOP.genruntimeconfig.cache
+/home/gabrielfelipe/arch/learning-csharp/OOP/obj/Debug/net6.0/ref/OOP.dll
